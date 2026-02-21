@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project includes API and UI automation tests implemented with Playwright, along with AI-assisted test strategy analysis.
+This project includes API and UI automation tests implemented with Playwright, along with test strategy analysis.
 
-The objective of this challenge is to demonstrate structured test automation, risk based thinking, and effective collaboration with AI.
+The objective of this challenge is to demonstrate structured test automation, risk based thinking, and effective collaboration with test strategies.
 
 ---
 
@@ -15,7 +15,6 @@ The objective of this challenge is to demonstrate structured test automation, ri
 - `tests/test-data` → AI-generated dynamic test data
 - `pages` → Page Object classes
 - `prompts` → All AI prompts used during the process
-- `Test Strategy Analysis.pdf` → Risk analysis and Gherkin refinement
 
 ---
 
