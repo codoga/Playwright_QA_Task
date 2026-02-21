@@ -1,4 +1,4 @@
-# AI-Augmented QA Engineering Challenge
+# Playwright_QA_Task
 
 ## Overview
 
